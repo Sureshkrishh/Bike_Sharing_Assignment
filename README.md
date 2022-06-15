@@ -1,5 +1,5 @@
 # Project Name
-US company Boom Bikes offer service to use bikes for rent /free.Due to covid the company suffered revenue loss as demand for bikes dropped due to lockdown As lockdown is not there they want to intelligently play so that they can accelerate revenue..
+US company Boom Bikes offer service to use bikes for rentals.Due to covid the company suffered revenue loss as demand for bikes dropped due to lockdown As lockdown is not there they want to intelligently play so that they can accelerate revenue..
 
 
 ## Table of Contents
