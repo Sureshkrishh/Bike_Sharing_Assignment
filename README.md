@@ -11,11 +11,11 @@ US company Boom Bikes offer service to use bikes for rentals.Due to covid the co
 The problem is focused on creating best fit linear prediction model
 
 ## Technologies Used
-Python - version 3.7.6
-NumPy - version 1.18.1
-Pandas - version 1.2.3
-Matplotlib - version 3.1.3
-Seaborn - version 0.10.0
+- Python - version 3.7.6
+- NumPy - version 1.18.1
+- Pandas - version 1.2.3
+- Matplotlib - version 3.1.3
+- Seaborn - version 0.10.0
 
 
 ## Acknowledgements
